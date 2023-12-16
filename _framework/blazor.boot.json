@@ -1,7 +1,7 @@
 {
   "entryAssembly": "AppColoriage",
   "resources": {
-    "hash": "sha256-ic/fLYmAr/JeYfSzKPJzCU3La8aOX8PwLi8r3qBZtL4=",
+    "hash": "sha256-YvWLggyOhLlIIz5kDf68Fsto87mFcS4lCw5ruDar5Lk=",
     "runtime": {
       "dotnet.7.0.14.cxswahjwhz.js": "sha256-YWGUknGRzP/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",
       "dotnet.timezones.blat": "sha256-t5xviiOQTfAsF0UDhmcyalKiaehUmf/sqJl97tmPM0M=",
@@ -11,7 +11,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "AppColoriage.dll": "sha256-FHqWXfbgV8fvkv0yTkMzgFXUOZU3EkwRJ5R9X683akQ=",
+      "AppColoriage.dll": "sha256-aP+ZeqRdtqIgFOwgcxsLnWBtfF7kpCrswsQ9kEzmlIU=",
       "Microsoft.AspNetCore.Components.dll": "sha256-HhJnCSiX3UvkErs1jGfq5egUiFQGlKO/8iVCXomJcVQ=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-9pHe4DS++xczsWjaYSEovYMFf+1aC23+m2mwOXUOVtk=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-p7dHe0neqZ686pGtO7SoNCAO9KW/T1MOD4hlZHHU35A=",
